@@ -9,6 +9,11 @@
   <img src="https://avatars.githubusercontent.com/Forhadj" width="120" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Protected-Cython.so-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Obfuscation-Marshal%7CZlib%7CB64-red?style=flat-square">
+</p>
 ---
 
 # 👋 Hi, I'm Forhad (Forhadj)
