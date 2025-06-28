@@ -1,7 +1,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Hi+there!+I'm+Forhad;Python+Dev+%7C+Termux+Master;Cybersecurity+Tool+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Hi+there!+I'm+Forhad;Python+Dev+%7C+Termux+Nob;Cybersecurity+Tool+Builder" alt="Typing SVG" />
 </p>
 
 
