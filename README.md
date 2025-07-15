@@ -73,7 +73,7 @@ Domains:        Cybersecurity, OSINT, Encryption, Automation
 ## 📫 Connect with Me
 
 - GitHub: [Forhadj](https://github.com/Forhadj)
-- Telegram: [@your_username](https://t.me/f_forhad)
+- Telegram: [@f_forhad](https://t.me/f_forhad)
 - Discord: Forhad#2025
 
 ---
